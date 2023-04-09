@@ -1,0 +1,14 @@
+# davinci-user 11 RKQ1.200826.002 21.11.24 release-keys
+- manufacturer: xiaomi
+- platform: sm6150
+- codename: davinci
+- flavor: davinci-user
+- release: 11
+- id: RKQ1.200826.002
+- incremental: 21.11.24
+- tags: release-keys
+- fingerprint: Xiaomi/davinci/davinci:11/RKQ1.200826.002/21.11.24:user/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: davinci-user-11-RKQ1.200826.002-21.11.24-release-keys
+- repo: xiaomi_davinci_dump
